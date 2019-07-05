@@ -1,5 +1,5 @@
 #container{
-    background-color: rgb(4, 19, 14)
+    background-color: aquamarine;
 }
 #landingpage{
     background-color:whitesmoke;
@@ -13,10 +13,17 @@
 }
 #mantra{
     text-align:right;
-    padding-top: 200px;
+    padding-top: 130px;
     padding-right: 30px;
     font-family:'Source Code Pro', monospace;  
 }
 .list{
     font-family:'Source Code Pro', monospace;
+}
+#projects{
+    height:400px;
+}
+
+#projects>h2 {
+    text-align: center;
 }
