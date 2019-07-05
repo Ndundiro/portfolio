@@ -21,7 +21,7 @@
     font-family:'Source Code Pro', monospace;
 }
 #projects{
-    height:400px;
+    display: flex;
 }
 
 #projects>h2 {
