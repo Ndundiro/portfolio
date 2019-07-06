@@ -5,6 +5,26 @@
     background-color:whitesmoke;
     height: 580px;
 }
+    
+    
+#nav{
+    position:sticky;
+    top:0;
+    height: 100px;
+    width: 100%;
+    padding-top: 50px;
+    padding-left: 30px;
+    background-color: aqua;
+}
+
+nav>ul>li>a{
+    text-decoration: none;
+}
+nav>ul>li{
+    display: inline-block;
+    width: 1in;
+    text-decoration: none;
+}
 #name{
     font-family:'Source Sans Pro', sans-serif;
     font-size: 40px;
