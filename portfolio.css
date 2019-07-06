@@ -21,9 +21,16 @@
     font-family:'Source Code Pro', monospace;
 }
 #projects{
+    height:500px;
     display: flex;
+    justify-content: space-around;
 }
-
-#projects>h2 {
+h2 {
     text-align: center;
+}
+#gympage,#resort{
+    width: 28%;
+}
+#why{
+    padding-left:70%; 
 }
