@@ -4,10 +4,32 @@
 #home{
     background-color:whitesmoke;
     height: 580px;
+    display: flex;
+    /* background-image: url(pic.jpg); */
+    /* background-size: cover; */
+    /* background-position: 8%;
+    background-attachment: fixed;
+    background-repeat: no-repeat; */
 }
-    
-    
 #nav{
+    position: relative;
+    right: -200px;
+    top: 200px;
+}
+/* #socials{
+    height: 70px;
+    width: 50px;
+    margin: 40px 10px 10px 50px;
+  }
+  .social-media{
+    margin-top: 30px -20px 0 10px;
+    display: flex;
+    width: 300px; */
+    /* justify-content: center; */
+  }
+    
+    
+/* #nav{
     position:sticky;
     top:0;
     height: 100px;
@@ -15,15 +37,16 @@
     padding-top: 50px;
     padding-left: 30px;
     background-color: aqua; 
-}
+}  */
 
 nav>ul>li>a{
     text-decoration: none;
+    font-family: 'Source Code Pro', monospace;
+    font-size: 40px; 
+
 }
 nav>ul>li{
-    display: inline-block;
-    width: 1in;
-    text-decoration: none;
+    display:block;
 }
 #name{
     font-family:'Source Sans Pro', sans-serif;
@@ -31,7 +54,16 @@ nav>ul>li{
     text-align: right;
     padding-right: 120px;
     padding-top: 10%;
-}
+    /* background-image: url(pic.jpg);
+    background-size: cover;
+    background-position: 8%; */
+    /* background-attachment: fixed; */
+    /* background-repeat: no-repeat;
+    opacity: 1;
+    width:35%;
+    border-radius: 7px;
+    
+} */
 #mantra{
     text-align:right;
     padding-top: 130px;
