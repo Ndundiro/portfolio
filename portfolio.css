@@ -55,9 +55,9 @@ nav>ul>li{
     padding-right: 120px;
     padding-top: 10%;
     background-image: url(pic.jpg);
-    background-size: cover;
-    background-position: 8%;
-    background-attachment: fixed;
+    /* background-size: cover; */
+    background-position: 50%;
+    /* background-attachment: fixed; */
     background-repeat: no-repeat;
     opacity: 1;
     width:35%;
