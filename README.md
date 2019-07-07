@@ -3,7 +3,8 @@
 #### By Ndundiro Kamau
 ## Description
 This is a portfolio page made after my first week at Moringa School. It showcases what I have been able to do.
-
+### screenshot 
+<img src="screenshot.png" width="1000">
 ## Setup/Installation Requirements
 git  clone the files
 or download a zip file of the project.
@@ -20,4 +21,4 @@ Any changes can be made in a text editor.
 Incase of enquiries,additional suggestions or concerns,get in touch.Email:ndundirokamau@gmail.com 
 
 ## License
- MIT Copyright (c) {2019} Ndundiro Kamau 
+ MIT License &copy;2019 Ndundiro Kamau 

@@ -5,11 +5,7 @@
     background-color:whitesmoke;
     height: 580px;
     display: flex;
-    /* background-image: url(pic.jpg); */
-    /* background-size: cover; */
-    /* background-position: 8%;
-    background-attachment: fixed;
-    background-repeat: no-repeat; */
+    
 }
 #nav{
     position: relative;
@@ -21,28 +17,16 @@
     width: 50px;
     margin: 40px 10px 10px 50px;
     color: black;
-  }
-  #socials:hover{
+}
+#socials:hover{
       color: aquamarine;
-  }
+}
   .social-media{
     margin-top: 30px -20px 0 10px;
     display: flex;
     width: 300px;
     justify-content: center;
-  }
-    
-    
-#nav{
-    /* position:sticky;
-    top:0;
-    height: 100px;
-    width: 100%;
-    padding-top: 50px;
-    padding-left: 30px; */
-    /* background-color: aqua;  */
-} 
-
+}  
 nav>ul>li>a{
     text-decoration: none;
     font-family: 'Source Code Pro', monospace;
@@ -68,8 +52,7 @@ nav>ul>li{
     background-repeat: no-repeat;
     opacity: 0.3;
     width:40%;
-    border-radius: 7px;
-    
+    border-radius: 7px;  
 }
 #mantra{
     text-align:right;
