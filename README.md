@@ -5,7 +5,9 @@
 This is a portfolio page made after my first week at Moringa School. It showcases what I have been able to do.
 
 ## Setup/Installation Requirements
-The files contained are html and css.Open them in a browser that supports this kind of files eg chrome.
+git  clone the files
+or download a zip file of the project.
+The files contained (html and css) should be able to open in a browse eg chrome.
 Any changes can be made in a text editor. 
 ## Known Bugs
  No known bugs at the moment. 
