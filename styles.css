@@ -83,3 +83,10 @@ h2 {
 #why{
     padding-left:70%; 
 }
+.look{
+    text-decoration: none;
+    color:black;
+}
+.look:hover{
+    color:aquamarine;
+}
