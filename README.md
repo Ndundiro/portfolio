@@ -1,5 +1,5 @@
 # My portfolio
-#### The project is my portfolio page that says about me and showcases a sample of my work},{6th July 2019}.
+#### The project is my portfolio page that says about me and showcases a sample of my work,6th July 2019.
 #### By Ndundiro Kamau
 ## Description
 This is a portfolio page made after my first week at Moringa School. It showcases what I have been able to do.
