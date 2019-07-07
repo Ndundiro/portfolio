@@ -1,5 +1,5 @@
 #container{
-    /* background-color: aquamarine; */
+   font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
 }
 #home{
     background-color:whitesmoke;
@@ -20,6 +20,10 @@
     height: 70px;
     width: 50px;
     margin: 40px 10px 10px 50px;
+    color: black;
+  }
+  #socials:hover{
+      color: aquamarine;
   }
   .social-media{
     margin-top: 30px -20px 0 10px;
@@ -43,7 +47,10 @@ nav>ul>li>a{
     text-decoration: none;
     font-family: 'Source Code Pro', monospace;
     font-size: 40px; 
-
+    color: black;
+}
+nav>ul>li>a:hover{
+color: aquamarine;
 }
 nav>ul>li{
     display:block;
@@ -51,16 +58,16 @@ nav>ul>li{
 #name{
     font-family:'Source Sans Pro', sans-serif;
     font-size: 40px;
+    font-weight: 700;
     text-align: right;
     padding-right: 120px;
     padding-top: 10%;
     background-image: url(pic.jpg);
-    /* background-size: cover; */
     background-position: 50%;
-    /* background-attachment: fixed; */
+    background-attachment: local;
     background-repeat: no-repeat;
-    opacity: 1;
-    width:35%;
+    opacity: 0.3;
+    width:40%;
     border-radius: 7px;
     
 }
@@ -74,7 +81,8 @@ nav>ul>li{
     font-family:'Source Code Pro', monospace;
 }
 #projects{
-    height:500px;
+    padding-top: 100px;
+    height:600px;
     display: flex;
     justify-content: space-around;
 }
@@ -83,6 +91,11 @@ h2 {
 }
 #gympage,#resort{
     width: 28%;
+}
+#aboutme{
+    height:480px;
+    padding-left: 50px;
+    padding-right: 50px;
 }
 #why{
     padding-left:70%; 
