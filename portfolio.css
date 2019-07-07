@@ -16,7 +16,7 @@
     right: -200px;
     top: 200px;
 }
-/* #socials{
+#socials{
     height: 70px;
     width: 50px;
     margin: 40px 10px 10px 50px;
@@ -24,8 +24,8 @@
   .social-media{
     margin-top: 30px -20px 0 10px;
     display: flex;
-    width: 300px; */
-    /* justify-content: center; */
+    width: 300px;
+    justify-content: center;
   }
     
     
