@@ -52,7 +52,27 @@ nav>ul>li{
     background-repeat: no-repeat;
     opacity: 0.3;
     width:40%;
-    border-radius: 7px;  
+    border-radius: 7px; 
+}
+.overlay{
+    background-color:black;
+    opacity:0.6;
+    width:48.5%;
+    height:100%;
+    position: absolute;
+    top: 0;
+    bottom: 0;
+    
+}
+.overlay p{
+    padding-left: -8%;
+    padding-top:30%;
+    font-weight: 400px;
+    color: white;
+}
+.web{
+    color: aquamarine;
+
 }
 #mantra{
     text-align:right;
